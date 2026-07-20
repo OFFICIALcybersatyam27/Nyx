@@ -1,4 +1,4 @@
-# DarkFly-Tool
+# nyx-Tool
 The latest version of nyx tool V.4.0
 
 DarkFly now is: <a href="https://github.com/OFFICIALcybersatyam27/nyx">DarkFly-2019.1</a> (generation of DarkFly-tool) Try it.
