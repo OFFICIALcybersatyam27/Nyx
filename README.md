@@ -1,7 +1,7 @@
 # nyx-Tool
 The latest version of nyx tool V.4.0
 
-DarkFly now is: <a href="https://github.com/OFFICIALcybersatyam27/nyx">DarkFly-2019.1</a> (generation of DarkFly-tool) Try it.
+Nyx now is: <a href="https://github.com/OFFICIALcybersatyam27/Nyx.git">-2019.1</a> (Nyx) generation it.
 
 information:
 
@@ -35,8 +35,8 @@ $python2 install.py
 for update this tool, just do the reinstallation, the first way is to install the Darkfly tools, by reinstalling, the old file will be deleted and replaced with the new one installed.
 # note
 ```
-the nyx tools on linux does not working
-you can download termux and use the commands ```
+the nyx tools on linux does not working you can download termux and use the commands
+ ```
 
 # support me
 <a href="https://youtube.com/@official_cyber_satyam27?si=KIjUlKKtDObLRGT9"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg">
