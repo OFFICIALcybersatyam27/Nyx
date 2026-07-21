@@ -36,7 +36,7 @@ for update this tool, just do the reinstallation, the first way is to install th
 # note
 ```
 the nyx tools on linux does not working
-```
+you can download termux and use the commands ```
 
 # support me
 <a href="https://youtube.com/@official_cyber_satyam27?si=KIjUlKKtDObLRGT9"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg">
